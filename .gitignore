@@ -1,0 +1,13 @@
+.venv/
+.pip-cache/
+.pyinstaller/
+.runtime-temp/
+.build-temp/
+build/
+dist/
+data/
+__pycache__/
+*.pyc
+*.zip
+*.rar
+test*.*
